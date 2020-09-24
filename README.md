@@ -8,4 +8,4 @@ More text.
 
 * This is a list
 * This is second list
-** This is thrid list
+* *This is thrid list
